@@ -25,7 +25,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahakami&layout=compact)
 
- ![LeetCode Stats](https://leetcard.jacoblin.cool/linuxlaber?theme=dark&font=Dokdo)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/Wantook?theme=dark&font=Dokdo)
 
  
 
