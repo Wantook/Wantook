@@ -21,7 +21,7 @@
 
  💯 Roadmap of Theoretical Computer Science :
 
- 👌 DSA Roadmap :
+![tryhackme stats](https://raw.githubusercontent.com/<MIlan0s>/<MIlan0s>/master/assets/thm_propic.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantook&hide_progress=true) 
 
