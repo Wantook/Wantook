@@ -19,8 +19,6 @@ $ I don't know what to put here but ummm....
 $ cat < kfineIwillinTr0ducemys3lf
 $ Cybersec 100% final decision and Software Dev.
 
-$ #Leme get some scripts
-
 $ cd Downloads/Files/intro
 
 $ ./myself.sh
