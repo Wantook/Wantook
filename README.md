@@ -19,13 +19,11 @@
 
  📫 Contact me at
 
- 💯 Roadmap of Theoretical Computer Science :
 
-![tryhackme stats](https://raw.githubusercontent.com/<MIlan0s>/<MIlan0s>/master/assets/thm_propic.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantook&hide_progress=true) 
+<img src="https://tryhackme-badges.s3.amazonaws.com/MIlan0s.png" alt="TryHackMe">
 
- ![LeetCode Stats](https://leetcard.jacoblin.cool/Wantook?theme=dark&font=Dokdo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantook&hide_progress=true)
 
  
 
