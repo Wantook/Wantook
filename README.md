@@ -13,25 +13,25 @@
 
 
 ```
-$ cat < idk
-$ I don't know what to put here but ummm....
+                                        $ cat < idk
+                                        $ I don't know what to put here but ummm....
 
-$ cat < kfineIwillinTr0ducemys3lf
-$ Cybersec 100% final decision and Software Dev.
+                                        $ cat < kfineIwillinTr0ducemys3lf
+                                        $ Cybersec 100% final decision and Software Dev.
 
-$ #Leme get some scripts
+                                        $ #Leme get some scripts
 
-$ cd Downloads/Files/intro
+                                        $ cd Downloads/Files/intro
 
-$ ./myself.sh
+                                        $ ./myself.sh
 
-"Main Priorities:"
-"Software Development
-.NET (MAUI, Razor, MVC, Blazor)
-Cybersec:
-Scripting and Pen Testing
+                                        "Main Priorities:"
+                                        "Software Development
+                                        .NET (MAUI, Razor, MVC, Blazor)
+                                        Cybersec:
+                                        Scripting and Pen Testing
 
-$ _
+                                        $ _
 ```
 
 
