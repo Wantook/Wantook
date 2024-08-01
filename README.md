@@ -10,15 +10,28 @@
 
 
 <div align="center">
-  
- 🔭 I’m currently prioritizing  [A few probs from CSES](https://cses.fi/problemset/) 
 
- 🌱 Check out my upcoming ebook [Unfinished Book](https://github.com/user-attachments/files/16192609/DSA.BOOK.BY.ME.pdf)
+```
+$ cat < idk
+$ I don't know what to put here but ummm....
 
- 📝 I regularly write articles on 
+$ cat < kfineIwillinTr0ducemys3lf
+$ Cybersec 100% final decision. I also want to do Software Development on the side.
 
- 📫 Contact me at
+$ #Leme get some scripts
 
+$ cd Downloads/Files/intro
+
+$ ./myself.sh
+
+"Main Priorities:"
+"Software Development
+.NET (MAUI, Razor, MVC, Blazor)
+Cybersec:
+Scripting and Pen Testing
+
+$ _
+```
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MIlan0s.png" alt="TryHackMe">
