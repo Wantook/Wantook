@@ -28,6 +28,8 @@ $ ./myself.sh
 .NET (MAUI, Razor, MVC, Blazor)
 Cybersec:
 Scripting, Pen Testing, DevOps
+Theory:
+DSA, Set Theory, Formal and Informal Logic
 
 $ _
 ```
