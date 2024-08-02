@@ -27,7 +27,7 @@ $ ./myself.sh
 "Software Development
 .NET (MAUI, Razor, MVC, Blazor)
 Cybersec:
-Scripting and Pen Testing
+Scripting, Pen Testing, DevOps
 
 $ _
 ```
