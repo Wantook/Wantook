@@ -1,7 +1,6 @@
 
 
-<h3 align="center">Sup</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9C0404&center=true&vCenter=true&width=435&lines=Prepare+to+witness...;Greatness!)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zemxaytm6pjrpnawx4g7irfqdi&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify GitHub Profile" style="width:100%; max-width:640px; display:block; margin-left:auto; margin-right:auto;">
