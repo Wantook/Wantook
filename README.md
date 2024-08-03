@@ -30,6 +30,7 @@ DSA, Set Theory, Formal and Informal Logic
 $ _
 ```
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Let's%20%20see....&animation=fadeIn&reversal=false&textBg=false)
 
 
 
