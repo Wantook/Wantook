@@ -37,11 +37,7 @@ DSA, Set Theory, Formal and Informal Logic
 $ _
 ```
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Let's%20%20see....&animation=fadeIn&reversal=false&textBg=false)
 
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/MIlan0s.png" alt="TryHackMe">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantook&hide_progress=true)
 
