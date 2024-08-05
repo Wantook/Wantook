@@ -41,6 +41,8 @@ $ _
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantook&layout=compact)
 
+
+[MVVM Tip](https://manuel0985.wordpress.com/mvvm-pattern-tip/)
  
 
 </div>
