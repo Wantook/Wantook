@@ -56,7 +56,7 @@ $ _
 
 # Tips and Tricks
 
-## [MVVM Tip](https://manuel0985.wordpress.com/mvvm-pattern-tip/)
+
 
  
 </div>
