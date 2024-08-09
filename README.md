@@ -54,7 +54,13 @@ $ _
 
 <div align="center">
 
-# Tips and Tricks
+# Tips and Tricks and Life Hacks for Tech or Life in General
+
+*
+
+# Check my Nonsense to be Reviewed Random IDK
+
+* 
 
 
 
